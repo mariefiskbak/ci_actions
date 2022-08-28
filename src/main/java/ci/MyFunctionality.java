@@ -6,7 +6,6 @@ public class MyFunctionality {
     }
 
 
-//THIS IS A TEST
     
     public int getTen(){
 
